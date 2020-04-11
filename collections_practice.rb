@@ -40,3 +40,4 @@ array.collect do |word|
     word +  "s"
   end
 end
+end
